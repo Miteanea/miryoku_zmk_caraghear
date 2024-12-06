@@ -12,7 +12,7 @@ U_NP,              U_NP,              &kp K_APP,         &kp TAB,           &kp 
 #define MIRYOKU_LAYER_GAME \
 &kp TAB,           &kp Q,             &kp W,             &kp E,             &kp R,             U_NA,              U_NA,              U_NA,              U_NA,              U_NA,            \
 &kp LSHFT,         &kp A,             &kp S,             &kp D,             &kp F,             U_NA,              U_NA,              U_NA,              U_NA,              U_NA,            \
-&kp LCTRL,         &kp Z,             &kp X,             &kp C,             U_MT(N4, B),       U_NA,              U_NA,              U_NA,              U_NA,              U_NA,            \
+&kp LCTRL,         &kp Z,             &kp X,             &kp C,             N4, B,             U_NA,              U_NA,              U_NA,              U_NA,              U_NA,            \
 U_NP,              U_NP,              &kp ESC,           U_LT(U_GAME2, V),  &kp SPACE,         U_NA,              U_NA,              U_NA,              U_NP,              U_NP 
 
 
