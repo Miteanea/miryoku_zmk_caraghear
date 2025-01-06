@@ -1,5 +1,7 @@
 // Copyright 2021 Manna Harbour
 // https://github.com/manna-harbour/miryoku
+// https://github.com/mnivoliez/miryoku_zmk/blob/master/miryoku/custom_config.h
+
 #define CONFIG_ZMK_BLE_EXPERIMENTAL_FEATURES
 
 #define MIRYOKU_LAYER_FUN \
